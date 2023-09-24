@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **bansalrupali585@gmail.com**
 
-- 📄 Know about my experiences [I have completed training on Python Django in Chetu Indian Pvt Ltd](I have completed training on Python Django in Chetu Indian Pvt Ltd)
+- 📄 Know about my experiences [I have completed training on Python Django in Chetu Indian Pvt Ltd]
 
 - ⚡ Fun fact **I am Funny**
 
